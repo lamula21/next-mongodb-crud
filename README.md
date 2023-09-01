@@ -13,7 +13,7 @@
 - Typescrypt for strong typed code
 - Next Auth for users authentication with JWT (Json Web Tokens)
 - Axios for fetching data
-- Bcrypt for password encryption
+- Bcrypt for password encryption.
 
 ## Getting Started
 
